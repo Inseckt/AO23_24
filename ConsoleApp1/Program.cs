@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-        }
+       //esto es la impresionante cosa  de loco }
+
     }
 }
