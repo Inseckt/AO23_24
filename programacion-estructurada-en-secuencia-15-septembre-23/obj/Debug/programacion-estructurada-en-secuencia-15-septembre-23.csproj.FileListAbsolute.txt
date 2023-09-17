@@ -6,3 +6,10 @@ C:\Users\Alumnodaw\Documents\GitHub\AO23_24\programacion-estructurada-en-secuenc
 C:\Users\Alumnodaw\Documents\GitHub\AO23_24\programacion-estructurada-en-secuencia-15-septembre-23\obj\Debug\programacion-estructurada-en-secuencia-15-septembre-23.csproj.CoreCompileInputs.cache
 C:\Users\Alumnodaw\Documents\GitHub\AO23_24\programacion-estructurada-en-secuencia-15-septembre-23\obj\Debug\programacion-estructurada-en-secuencia-15-septembre-23.exe
 C:\Users\Alumnodaw\Documents\GitHub\AO23_24\programacion-estructurada-en-secuencia-15-septembre-23\obj\Debug\programacion-estructurada-en-secuencia-15-septembre-23.pdb
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\programacion-estructurada-en-secuencia-15-septembre-23\bin\Debug\programacion-estructurada-en-secuencia-15-septembre-23.exe.config
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\programacion-estructurada-en-secuencia-15-septembre-23\bin\Debug\programacion-estructurada-en-secuencia-15-septembre-23.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\programacion-estructurada-en-secuencia-15-septembre-23\bin\Debug\programacion-estructurada-en-secuencia-15-septembre-23.pdb
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\programacion-estructurada-en-secuencia-15-septembre-23\obj\Debug\programacion-estructurada-en-secuencia-15-septembre-23.csproj.AssemblyReference.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\programacion-estructurada-en-secuencia-15-septembre-23\obj\Debug\programacion-estructurada-en-secuencia-15-septembre-23.csproj.CoreCompileInputs.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\programacion-estructurada-en-secuencia-15-septembre-23\obj\Debug\programacion-estructurada-en-secuencia-15-septembre-23.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\programacion-estructurada-en-secuencia-15-septembre-23\obj\Debug\programacion-estructurada-en-secuencia-15-septembre-23.pdb

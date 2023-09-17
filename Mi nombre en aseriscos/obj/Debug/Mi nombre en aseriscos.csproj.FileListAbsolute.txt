@@ -1,0 +1,7 @@
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Mi nombre en aseriscos\obj\Debug\Mi nombre en aseriscos.csproj.AssemblyReference.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Mi nombre en aseriscos\obj\Debug\Mi nombre en aseriscos.csproj.CoreCompileInputs.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Mi nombre en aseriscos\bin\Debug\Mi nombre en aseriscos.exe.config
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Mi nombre en aseriscos\bin\Debug\Mi nombre en aseriscos.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Mi nombre en aseriscos\bin\Debug\Mi nombre en aseriscos.pdb
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Mi nombre en aseriscos\obj\Debug\Mi nombre en aseriscos.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Mi nombre en aseriscos\obj\Debug\Mi nombre en aseriscos.pdb
