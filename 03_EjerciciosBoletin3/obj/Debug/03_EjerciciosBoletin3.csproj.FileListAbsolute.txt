@@ -1,0 +1,7 @@
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\03_EjerciciosBoletin3\obj\Debug\03_EjerciciosBoletin3.csproj.AssemblyReference.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\03_EjerciciosBoletin3\obj\Debug\03_EjerciciosBoletin3.csproj.CoreCompileInputs.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\03_EjerciciosBoletin3\bin\Debug\03_EjerciciosBoletin3.exe.config
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\03_EjerciciosBoletin3\bin\Debug\03_EjerciciosBoletin3.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\03_EjerciciosBoletin3\bin\Debug\03_EjerciciosBoletin3.pdb
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\03_EjerciciosBoletin3\obj\Debug\03_EjerciciosBoletin3.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\03_EjerciciosBoletin3\obj\Debug\03_EjerciciosBoletin3.pdb
