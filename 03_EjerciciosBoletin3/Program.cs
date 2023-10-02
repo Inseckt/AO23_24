@@ -40,7 +40,7 @@ namespace _03_EjerciciosBoletin3
 
             //Ahora calcular el volumen
 
-            //VOLUMEN PARA EL EJERCICO8 double volumen = (4.0 / 3.0) * PI * Math.Pow(radio, 3);
+             double volumen1 = (4.0 / 3.0) * PI * Math.Pow(radio, 3); //VOLUMEN PARA EL EJERCICO8 lo cambii a volumen1
 
             //Que aparezca en pantalla
 
@@ -53,6 +53,7 @@ namespace _03_EjerciciosBoletin3
              A continuación calcula el importe final que será precio* cantidad y muestra
              por pantalla el siguiente mensaje:
              “El precio del producto es x euros y la cantidad que compra es y por lo tanto debe pagar z euros.Vuelva pronto.”*/
+
             Console.WriteLine("***EJERCICIO 5");
             //Pedir que nos pongan el precio del producto con (double), nº decimal
 
@@ -69,12 +70,13 @@ namespace _03_EjerciciosBoletin3
             double importeTotal = precio * cantidad;
 
             //Mostrar el mensaje: Uso Console.WriteLine($" y el las llaves {}, en vez de concatenar usando el operador "+" he buscado una forma de que el "texto
-            //Sea más legible para poder asignar los valores de las variables dentro de una cadena ded texto que es larga. Como no me sabia el comando, lo he buscado.
+            //Sea más legible para poder asignar los valores de las variables dentro de una cadena de texto que es larga. Como no me sabia el comando, lo he buscado.
+
             //"$" Simbolo del dolar, Colocarlo antes de una cadena de texto indica que se trata de una cadena interpolada. Esto permite insertar los valores de las variables
             //directamente en la cadenad de texto.
             //"{}" Las llaves especifican donde se deben insertar los valores de las variables y hacer que esos resultados se inserten en la cadena final.
 
-            Console.WriteLine($"El precio del producto es {precio} y la cantidad que compra es {cantidad} por lo tanto debepagar {importeTotal} euros. Vuelva pronto.");
+            Console.WriteLine($"El precio del producto es {precio} y la cantidad que compra es {cantidad} por lo tanto debe pagar {importeTotal} euros. Vuelva pronto.");
 
             /*EJERCICIO 6
              *Realizar un programa que solicite al usuario dos números y calcule guardándolo en 
@@ -82,6 +84,7 @@ namespace _03_EjerciciosBoletin3
             “La suma es “ , suma.
             “La resta es “, resta.
             “La multiplicación es “, multiplicación.*/
+
             Console.WriteLine("***EJERCICIO 6");
             //Pedir el primer numero y darle el valor
             Console.WriteLine("Introduzca el primer numero: ");
@@ -97,9 +100,9 @@ namespace _03_EjerciciosBoletin3
             double multiplicacion = numero1 * numero2;
 
             //Mostramos ahora los resultados, lo voy a probar igual que en el ejercicio anterior, ademas todo en una misma fila, o en la opcion de cada uno en una linea distinta
-            //Veo que funciona: Console.WriteLine($"La suma es = {suma} . La resta es = {resta} . La multiplicacion es = {multiplicacion}");
-            Console.WriteLine($"La suma es = " + suma); // Pruebo tambien concatenando con el operador "+" 
-            Console.WriteLine($"La resta es = {resta}");
+            //Console.WriteLine($"La suma es = {suma} . La resta es = {resta} . La multiplicacion es = {multiplicacion}"); Veo que funciona
+            Console.WriteLine("La suma es = " + suma); // Pruebo tambien concatenando con el operador "+" 
+            Console.WriteLine($"La resta es = {resta}"); //Aqui en vez de concatenar con el + uso $ y {}
             Console.WriteLine($"La multiplicacion es = {multiplicacion}");
 
             //Ejercicio 7
@@ -116,15 +119,18 @@ namespace _03_EjerciciosBoletin3
 
             //Declarar variables para almacenar los valores ingresados escritos por teclado
 
-            double volumen, moles, temperatura; //Como estoy haciendo todos los ejercicios en el mismo, aqui me ha saltado como que la variable volumen esta siendo usada, en el ejercicio PI, voy a poner esa variable como comentario, para que se me aplique aqui.
+            double volumen, moles, temperatura, presion; //Como estoy haciendo todos los ejercicios en el mismo,
+                                                         //aqui me ha saltado como que la variable volumen esta siendo usada, cambie la otra a volumen1
+                                                         //en el ejercicio PI, voy a poner esa variable como comentario, para que se me aplique aqui.
 
             //Declarar como onstante de los gases ideales (R)
             const double R = 0.082;
             Console.WriteLine("***EJERCICIO 8");
+
             // Pedirle al usuario que ingrese el volumen, numero de moles y temperatura en Kelvin
             Console.Write("Ingrese el volumen en litros: ");
-            volumen = Convert.ToDouble(Console.ReadLine());
-
+            volumen = Convert.ToDouble(Console.ReadLine()); // lo convertimos por que salen dos variable, console.readline()); la combierte a string, y la tenemos que pasar a double.
+            
             Console.Write("Ingrese el numero de moles: ");
             moles = Convert.ToDouble(Console.ReadLine());
 
@@ -132,40 +138,57 @@ namespace _03_EjerciciosBoletin3
             temperatura = Convert.ToDouble(Console.ReadLine());
 
             //Ahora calcular la presion utilizando la formula de los gases ideales
-            double presion = (moles * R * temperatura) / volumen;
+            presion = (moles * R * temperatura) / volumen;
 
             Console.WriteLine($"Con un volumen de {volumen} litros, y una temperatura de {temperatura} Kelvin, {moles} moles de un gas ideal tienen una presión de {presion} atmósferas");
 
-            //ejercicio 10 Escribir un programa que lea las horas trabajadas en un mes y la tasa a la que se le paga cada hora y el IRPF que se aplica como impuesto.
+            
+            //EJERCICIO 9 Escribir un programa que permita intercambiar los contenidos de dos variables x e y de un cierto tipo de datos.
+            
+            Console.WriteLine("****EJERCICIO 9****");
+
+            //Primero vamos a darle valor a X e Y
+            int x = 9;
+            int y = 11;
+
+            Console.WriteLine("Resultado del valor sin variar: ");
+            Console.WriteLine("x = " + x);
+            Console.WriteLine("y = " + y);
+
+            //ejercicio 10
+            //Escribir un programa que lea las horas trabajadas en un mes y la tasa a la que se le paga cada hora y el IRPF
+            //que se aplica como impuesto.
             //EL programa debe calcular el salario bruto y el salario neto del trabajador:
             //El salario neto se calcula restando al salario bruto el IRPF.
 
+            Console.WriteLine("***EJERCICIO 10***");
+
+            double horasTrabajadas, pagoPorHora, irpf, salarioBruto, salarioNeto;
             //Primero necesito saber que el usuario introduzca las horas trabajadas en un mes.
             Console.Write("Introduzca las horas trabajadas en un mes: ");
-            double horasTrabajadas = Convert.ToDouble(Console.ReadLine());
+             horasTrabajadas = Convert.ToDouble(Console.ReadLine());
 
             //Segundo necesito saber que el usuario introduzca lo que le pagan por hora.
             Console.Write("Introduzca el pago por hora: ");
-            double pagoPorHora = Convert.ToDouble(Console.ReadLine());
+             pagoPorHora = Convert.ToDouble(Console.ReadLine());
 
             //Pedirle al usuario que introduzca cuanto le quitan de IRPF como un porcentaje. //luego se apsara a decimal
             Console.Write("Introduzca el IRPF que le quitan de la nomina: ");
-            double irpfPorcentaje = Convert.ToDouble(Console.ReadLine());
+             irpf = Convert.ToDouble(Console.ReadLine());
 
-            // Calcular el salario bruto.
-            double salarioBruto = horasTrabajadas * pagoPorHora;
+            //Calcular el salario bruto.
+             salarioBruto = horasTrabajadas * pagoPorHora;
 
-            // Calcular el IRPF % porcentaje y convertirlo a decimal. Esta formula no recordaba o no me la sabia, la he buscado.
-            double irpfDecimal = irpfPorcentaje / 100.0;
+         
 
-            // Calcular el salario neto restando el IRPF al salario bruto.
-            double salarioNeto = salarioBruto - (salarioBruto * irpfDecimal);
+            //Calcular el salario neto restando el IRPF al salario bruto.
+             salarioNeto = salarioBruto - (salarioBruto * irpf) / 100.0;
 
-            // Mostrar los resultados con mensajes descriptivos.
+            //Mostrar los resultados con mensajes descriptivos.
             Console.WriteLine($"El salario bruto es: {salarioBruto} euros.");
             Console.WriteLine($"El salario neto es: {salarioNeto} euros.");
 
-            Console.WriteLine("***EJERCICIO 10");
+           
             Console.ReadLine();
 
 
