@@ -1,0 +1,7 @@
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema_3ConversionesDeDatos\bin\Debug\tema_3ConversionesDeDatos.exe.config
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema_3ConversionesDeDatos\bin\Debug\tema_3ConversionesDeDatos.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema_3ConversionesDeDatos\bin\Debug\tema_3ConversionesDeDatos.pdb
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema_3ConversionesDeDatos\obj\Debug\tema_3ConversionesDeDatos.csproj.AssemblyReference.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema_3ConversionesDeDatos\obj\Debug\tema_3ConversionesDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema_3ConversionesDeDatos\obj\Debug\tema_3ConversionesDeDatos.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema_3ConversionesDeDatos\obj\Debug\tema_3ConversionesDeDatos.pdb

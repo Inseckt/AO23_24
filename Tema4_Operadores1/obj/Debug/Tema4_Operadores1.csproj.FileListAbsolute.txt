@@ -1,0 +1,7 @@
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Tema4_Operadores1\bin\Debug\Tema4_Operadores1.exe.config
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Tema4_Operadores1\bin\Debug\Tema4_Operadores1.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Tema4_Operadores1\bin\Debug\Tema4_Operadores1.pdb
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Tema4_Operadores1\obj\Debug\Tema4_Operadores1.csproj.AssemblyReference.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Tema4_Operadores1\obj\Debug\Tema4_Operadores1.csproj.CoreCompileInputs.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Tema4_Operadores1\obj\Debug\Tema4_Operadores1.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Tema4_Operadores1\obj\Debug\Tema4_Operadores1.pdb

@@ -1,0 +1,7 @@
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 3 ejemplo de tipos variables\bin\Debug\tema 3 ejemplo de tipos variables.exe.config
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 3 ejemplo de tipos variables\bin\Debug\tema 3 ejemplo de tipos variables.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 3 ejemplo de tipos variables\bin\Debug\tema 3 ejemplo de tipos variables.pdb
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 3 ejemplo de tipos variables\obj\Debug\tema 3 ejemplo de tipos variables.csproj.AssemblyReference.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 3 ejemplo de tipos variables\obj\Debug\tema 3 ejemplo de tipos variables.csproj.CoreCompileInputs.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 3 ejemplo de tipos variables\obj\Debug\tema 3 ejemplo de tipos variables.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 3 ejemplo de tipos variables\obj\Debug\tema 3 ejemplo de tipos variables.pdb
