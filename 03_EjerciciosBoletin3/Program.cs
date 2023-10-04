@@ -151,10 +151,18 @@ namespace _03_EjerciciosBoletin3
             int x = 9;
             int y = 11;
 
-            Console.WriteLine("Resultado del valor sin variar: ");
+            Console.WriteLine("Resultado del primer valor sin variar: ");
             Console.WriteLine("x = " + x);
             Console.WriteLine("y = " + y);
 
+            //Intentar intercambiar los valor usando una variable distinta
+            //int a = x;  //Lo que se me ocurrio es crear otra variable  distinta y asignarle e
+            x = y;
+            y = x;
+
+            Console.WriteLine("Mostrar los valores intercambiados: ");
+            Console.WriteLine("x = " + x);
+            Console.WriteLine("y = " + y);
             //ejercicio 10
             //Escribir un programa que lea las horas trabajadas en un mes y la tasa a la que se le paga cada hora y el IRPF
             //que se aplica como impuesto.

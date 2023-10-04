@@ -1,0 +1,7 @@
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\LibreriaMath\bin\Debug\LibreriaMath.exe.config
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\LibreriaMath\bin\Debug\LibreriaMath.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\LibreriaMath\bin\Debug\LibreriaMath.pdb
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\LibreriaMath\obj\Debug\LibreriaMath.csproj.AssemblyReference.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\LibreriaMath\obj\Debug\LibreriaMath.csproj.CoreCompileInputs.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\LibreriaMath\obj\Debug\LibreriaMath.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\LibreriaMath\obj\Debug\LibreriaMath.pdb
