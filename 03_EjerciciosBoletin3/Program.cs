@@ -156,9 +156,9 @@ namespace _03_EjerciciosBoletin3
             Console.WriteLine("y = " + y);
 
             //Intentar intercambiar los valor usando una variable distinta
-            //int a = x;  //Lo que se me ocurrio es crear otra variable  distinta y asignarle e
+            int a = x;  //Lo que se me ocurrio es crear otra variable  distinta y asignarle a x otra variable
             x = y;
-            y = x;
+            y = a;
 
             Console.WriteLine("Mostrar los valores intercambiados: ");
             Console.WriteLine("x = " + x);
