@@ -163,6 +163,7 @@ namespace _03_EjerciciosBoletin3
             Console.WriteLine("Mostrar los valores intercambiados: ");
             Console.WriteLine("x = " + x);
             Console.WriteLine("y = " + y);
+
             //ejercicio 10
             //Escribir un programa que lea las horas trabajadas en un mes y la tasa a la que se le paga cada hora y el IRPF
             //que se aplica como impuesto.
@@ -196,7 +197,102 @@ namespace _03_EjerciciosBoletin3
             Console.WriteLine($"El salario bruto es: {salarioBruto} euros.");
             Console.WriteLine($"El salario neto es: {salarioNeto} euros.");
 
-           
+
+            //Ejercicio 11
+            Console.WriteLine();
+            Console.WriteLine("***EJERCICIO 11***");
+
+            /*El programa deberá solicitar al usuario que introduzca dos datos de tipo double:
+              espacio en metros y tiempo en segundos. Con estos datos informará de la velocidad
+              en metros por segundo según la mítica fórmula:
+              Velocidad = espacio / tiempo
+              El mensaje será: “La velocidad es de “ +velocidad + “metros / segundo”*/
+
+            //Declaramos el valor
+
+            double espacio, tiempo, velocidad;
+
+            
+            Console.WriteLine("Introduzca los metros= ");
+            espacio = Convert.ToDouble(Console.ReadLine());
+            
+            Console.WriteLine("Introduzca el tiempo= ");
+            tiempo = Convert.ToDouble(Console.ReadLine());
+
+            velocidad = espacio / tiempo;
+            //
+            Console.WriteLine($"La velocidades de {velocidad} metros / segundo");
+
+            //EJERCICIO 12 diseñar un programa que a partir del lado  de un
+            //cuadrado calcule su área, su perímetro y su diagonal:p = 4*lado  d = lado ×√2  A = lado2
+            Console.WriteLine();
+            Console.WriteLine("****Ejercicio12****");
+
+            double lado, area1, perimetro, diagonal;
+            Console.WriteLine("Introduza el lado del cuadrado: ");
+            lado = Convert.ToDouble(Console.ReadLine());
+
+            //Calcular
+            area = lado * lado;
+            perimetro = 4 * lado;
+            diagonal = lado * Math.Sqrt(2);
+
+            // Mostrar los resultados del cuadrado
+            Console.WriteLine($"Area = {area}");
+            Console.WriteLine($"Perímetro = {perimetro}");
+            Console.WriteLine($"Diagonal = {diagonal}");
+
+
+            //EJERCICIO 13 Diseñar un programa que a partir de los lados de los catetos de un triángulo rectángulo
+            //calcule la hipotenusa con dos decimales según el teorema de Pitágoras: h^2 = a^2 + b^2 h = Raiz(a2 + b2 )
+
+
+            Console.WriteLine();
+            Console.WriteLine("****Ejercicio13****");
+            double cateto1, cateto2, hipotenusa;
+            Console.WriteLine("Ingrese cateto 1:");
+            cateto1 = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("Ingrese cateto 2:");
+            cateto2 = double.Parse(Console.ReadLine());
+            
+            hipotenusa = Math.Sqrt(cateto1 * cateto1 + cateto2 * cateto2);
+
+            Console.WriteLine($"La hipotenusa es: {hipotenusa}");
+
+            
+            //EJERCICIO 14 Diseñar un programa que calcule la rebaja realizada sobre un determinado producto a partir 
+            // del precio inicial y el porcentaje de descuento. El programa debe mostrar un mensaje informando:
+            // “Al aplicar un … por ciento de descuento el precio final del producto es de precio final y por lo tanto
+            //  se ahorra … euros.”
+
+
+              Console.WriteLine();
+              Console.WriteLine("****Ejercicio14****");
+            float precioInicial, porcentajeDescuento, precioFinal, rebaja;
+
+            Console.WriteLine("PRecio inicial: ");
+            precioInicial = float.Parse(Console.ReadLine());
+
+            Console.WriteLine("% descuento? ");
+            porcentajeDescuento = float.Parse(Console.ReadLine());
+
+            rebaja = (precioInicial * porcentajeDescuento) / 100;
+            
+            precioFinal = precioInicial - rebaja;
+
+            Console.WriteLine("precio final " +  precioFinal);
+
+
+            //EJERCICIO 15  Realizar un programa que lea el lado de un cubo y calcule los siguientes datos:
+            D =
+
+              Console.WriteLine();
+              Console.WriteLine("****Ejercicio15****");*/
+
+
+
+
             Console.ReadLine();
 
 
