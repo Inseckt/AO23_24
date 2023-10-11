@@ -24,7 +24,9 @@ namespace Repaso
             modulo = Math.Sqrt(a * a + b * b + c * c);
             modulo = Math.Round(modulo, 2);
             
-            int valorMasPequeno = Math.Min(a, b), c);
+            int menor = Math.Min(a, b);
+            int menor2 = Math.Min(menor, c);
+
 
 
 

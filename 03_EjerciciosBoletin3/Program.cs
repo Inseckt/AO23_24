@@ -208,7 +208,7 @@ namespace _03_EjerciciosBoletin3
               Velocidad = espacio / tiempo
               El mensaje será: “La velocidad es de “ +velocidad + “metros / segundo”*/
 
-            //Declaramos el valor
+            //Declaramos el valor 
 
             double espacio, tiempo, velocidad;
 
@@ -284,11 +284,10 @@ namespace _03_EjerciciosBoletin3
             Console.WriteLine("precio final " +  precioFinal);
 
 
-            //EJERCICIO 15  Realizar un programa que lea el lado de un cubo y calcule los siguientes datos:
-            D =
+            //EJERCICIO 15  Realizar un programa que lea el lado de un cubo y calcule los siguientes datos:            D =
 
               Console.WriteLine();
-              Console.WriteLine("****Ejercicio15****");*/
+              Console.WriteLine("****Ejercicio15****");
 
 
 
