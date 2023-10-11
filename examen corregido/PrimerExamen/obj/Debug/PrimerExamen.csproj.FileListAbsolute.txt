@@ -1,0 +1,7 @@
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\examen corregido\PrimerExamen\obj\Debug\PrimerExamen.csproj.AssemblyReference.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\examen corregido\PrimerExamen\obj\Debug\PrimerExamen.csproj.CoreCompileInputs.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\examen corregido\PrimerExamen\bin\Debug\PrimerExamen.exe.config
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\examen corregido\PrimerExamen\bin\Debug\PrimerExamen.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\examen corregido\PrimerExamen\bin\Debug\PrimerExamen.pdb
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\examen corregido\PrimerExamen\obj\Debug\PrimerExamen.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\examen corregido\PrimerExamen\obj\Debug\PrimerExamen.pdb
