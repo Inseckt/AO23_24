@@ -1,0 +1,7 @@
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\SentenciaIFElse\bin\Debug\SentenciaIFElse.exe.config
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\SentenciaIFElse\bin\Debug\SentenciaIFElse.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\SentenciaIFElse\bin\Debug\SentenciaIFElse.pdb
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\SentenciaIFElse\obj\Debug\SentenciaIFElse.csproj.AssemblyReference.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\SentenciaIFElse\obj\Debug\SentenciaIFElse.csproj.CoreCompileInputs.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\SentenciaIFElse\obj\Debug\SentenciaIFElse.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\SentenciaIFElse\obj\Debug\SentenciaIFElse.pdb

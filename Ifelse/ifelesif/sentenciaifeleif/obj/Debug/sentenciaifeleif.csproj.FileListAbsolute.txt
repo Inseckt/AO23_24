@@ -1,0 +1,7 @@
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\ifelesif\sentenciaifeleif\obj\Debug\sentenciaifeleif.csproj.AssemblyReference.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\ifelesif\sentenciaifeleif\obj\Debug\sentenciaifeleif.csproj.CoreCompileInputs.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\ifelesif\sentenciaifeleif\bin\Debug\sentenciaifeleif.exe.config
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\ifelesif\sentenciaifeleif\bin\Debug\sentenciaifeleif.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\ifelesif\sentenciaifeleif\bin\Debug\sentenciaifeleif.pdb
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\ifelesif\sentenciaifeleif\obj\Debug\sentenciaifeleif.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\ifelesif\sentenciaifeleif\obj\Debug\sentenciaifeleif.pdb
