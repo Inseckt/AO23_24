@@ -50,6 +50,24 @@ namespace sentenciaifeleif
             }
 
 
+            // actividad 3 Para aprobar la asignatura debemos cumplir los siguientes requisitos, aprobar los examenes, las tareas y l buen comortamiento
+
+
+            Boolean examenesAprobados = true;
+            Boolean tareasAprobadas = true;
+            Boolean comportamientoCorrecto = true;
+
+            //anidando 
+
+            if (examenesAprobados && tareasAprobadas && comportamientoCorrecto)
+            {
+                Console.WriteLine("Enhorabuena has aprobado");
+            }
+            else 
+            {
+                Console.WriteLine("Lo siento estas ");
+            }
+
 
 
             Console.ReadLine();
