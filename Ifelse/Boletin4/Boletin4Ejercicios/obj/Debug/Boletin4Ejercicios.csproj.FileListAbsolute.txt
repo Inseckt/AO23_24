@@ -1,0 +1,7 @@
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\Boletin4\Boletin4Ejercicios\bin\Debug\Boletin4Ejercicios.exe.config
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\Boletin4\Boletin4Ejercicios\bin\Debug\Boletin4Ejercicios.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\Boletin4\Boletin4Ejercicios\bin\Debug\Boletin4Ejercicios.pdb
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\Boletin4\Boletin4Ejercicios\obj\Debug\Boletin4Ejercicios.csproj.AssemblyReference.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\Boletin4\Boletin4Ejercicios\obj\Debug\Boletin4Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\Boletin4\Boletin4Ejercicios\obj\Debug\Boletin4Ejercicios.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\Ifelse\Boletin4\Boletin4Ejercicios\obj\Debug\Boletin4Ejercicios.pdb
