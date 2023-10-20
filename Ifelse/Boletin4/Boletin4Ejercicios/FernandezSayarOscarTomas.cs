@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics.Eventing.Reader;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,8 +10,7 @@ namespace Boletin4Ejercicios
     {
         static void Main(string[] args)
         {
-
-        
+       
 
 
 
@@ -21,43 +19,7 @@ namespace Boletin4Ejercicios
             Console.WriteLine("Introducir ejercicio:");
             ejercicio = int.Parse(Console.ReadLine());
 
-            if (ejercicio == 3)
-            {
-                /*ejercicio 4 3.	Explica lo que hace el siguiente DFD y escribe el algoritmo en código en el Visual Studio.
-
-                double a, b, c, d, menor;
-                
-                Console.WriteLine("Introduce el valor de a:");
-                a = double.Parse(Console.ReadLine());
-                Console.WriteLine("Introduce el valor de b:");
-                b = double.Parse(Console.ReadLine());
-                Console.WriteLine("Introduce el valor de c:");
-                c = double.Parse(Console.ReadLine());
-                Console.WriteLine("Introduce el valor de d:");
-                d = double.Parse(Console.ReadLine());
-                if (a > b)
-                {
-                    menor = b;
-                    Console.WriteLine("menor= b");
-                }
-                else if (a < b)
-                {
-                    menor = a;
-                    Console.WriteLine("menor = a");
-                }
-                else if (menor > c)
-                {
-                    menor = c;
-                    Console.WriteLine("menor = c");
-                }
-                else 
-                {
-                Console.WriteLine("menor = d");
-                }
-                */
-
-            }
-            else if (ejercicio == 4)
+            if (ejercicio == 4)
             {
                 //ejercicio 4 Escribir un programa que lea tres números y muestre por pantalla la media
                 //aritmética. Si la media es superior a 5 mandará un mensaje de  “Alumno aprobado”. En
@@ -116,7 +78,7 @@ namespace Boletin4Ejercicios
 
 
             }
-            else if (ejercicio == 6)
+            else if (ejercicio == 6) 
             {
                 //ejercicio 6 Escribir un programa que solicite al usuario una contraseña que se guardará en
                 //una variable de tipo String. El programa debe tener almacenada la contraseña previamente en
@@ -131,9 +93,9 @@ namespace Boletin4Ejercicios
                 {
                     Console.WriteLine("La contraseña es correcta.");
                 }
-                else
+                else 
                 {
-                    Console.WriteLine("La contraseña es incorrecta.");
+                Console.WriteLine("La contraseña es incorrecta.");
                 }
             }
             else if (ejercicio == 7)
@@ -157,16 +119,16 @@ namespace Boletin4Ejercicios
                     numeroElevado = Math.Pow(numero6, numero7);
                     Console.WriteLine($"el numero mayor elevado al numero mas pequeño: {numeroElevado}");
                 }
-                else
+                else 
                 {
-                    Console.WriteLine("Ambos numeros son iguales no se puede realizar el calculo");
+                Console.WriteLine("Ambos numeros son iguales no se puede realizar el calculo");
                 }
+                    
+                      
 
 
 
-
-
-
+                
 
             }
             else if (ejercicio == 8)
@@ -203,93 +165,10 @@ namespace Boletin4Ejercicios
                     Console.WriteLine("Todo en orden");
                 }
             }
-            else if (ejercicio == 9)
-            {
-                //9 Diseñar un programa que lea un número y si es múltiplo de 2 o de 3 mande un mensaje
-                //informando de tal situación, en caso de que no lo sea no hará nada.
-
-                double numeroMultiplo2_3;
-                Console.WriteLine("introduzca un numero: ");
-                numeroMultiplo2_3 = double.Parse(Console.ReadLine());
-
-                if (numeroMultiplo2_3 % 2 == 0 && numeroMultiplo2_3 % 3 == 0)
-                {
-                    Console.WriteLine("Multiplo de ambos");
-                }
-                else if (numeroMultiplo2_3 % 2 == 0)
-                {
-                    Console.WriteLine("multiplo de 2");
-                }
-                else if (numeroMultiplo2_3 % 3 == 0)
-                {
-                    Console.WriteLine("multiplo de 3");
-                }
-                else
-
-            }
-            else if (ejercicio == 10)
-            {
-            }
-            else if (ejercicio == 11)
-            {
-            }
-            else if (ejercicio == 12)
-            {
-            }
-            else if (ejercicio == 13)
-            {
-            }
-            else if (ejercicio == 14)
-            {
-            }
-            else if (ejercicio == 15)
-            {
-            }
-            else if (ejercicio == 16)
-            {
-            }
-            else if (ejercicio == 17)
-            {
-            }
-            else if (ejercicio == 18)
-            {
-            }
-            else if (ejercicio == 19)
-            {
-            }
-            else if (ejercicio == 20)
-            {
-            }
-            else if (ejercicio == 21)
-            {
-            }
-            else if (ejercicio == 22)
-            {
-            }
-            else if (ejercicio == 23)
-            {
-            }
-            
-            
 
 
+            Console.ReadLine();
 
-
-
-
-
-
-
-
-
-
-
-
-
-                Console.ReadLine();
-
-
-            }
         }
     }
 }
