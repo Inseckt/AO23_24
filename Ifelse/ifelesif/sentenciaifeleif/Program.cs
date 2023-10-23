@@ -68,10 +68,52 @@ namespace sentenciaifeleif
                 Console.WriteLine("Lo siento estas ");
             }
 
+            //SENTENCIA SWITCH NS PERMITE TRABAJAR CON RANGOS
 
 
-            Console.ReadLine();
 
+
+            Char opcion;
+            Char continuar;
+
+            do
+            {
+                Console.WriteLine("Escoge una opcion");
+                Console.WriteLine("A, Saludar");
+                Console.WriteLine("B, Animar");
+                Console.WriteLine("C, Despedir");
+                opcion = char.Parse(Console.ReadLine());
+
+                switch (opcion)
+                {
+                    case 'A':
+                        Console.WriteLine("HOla");
+                        break;
+                    case 'B':
+                        Console.WriteLine("Animate");
+                        break;
+                    case 'C':
+                        Console.WriteLine("chao!");
+                        break;
+                    default:
+                        Console.WriteLine("te has equivocado");
+                        break; //Opcional
+                               //Bucle para que el programa no se cierre
+
+
+
+
+                }// la que cierra el swich
+                Console.WriteLine("Quiere volver al menu? s/n");
+                continuar = char.Parse(Console.ReadLine());
+
+
+
+
+
+                Console.ReadLine();
+            } //llave que cierra el bucle do
+            while (continuar == 's');// con esto se cierra y con esto se crea la condicion para que se ejecute el bucle
         }
     }
 }
