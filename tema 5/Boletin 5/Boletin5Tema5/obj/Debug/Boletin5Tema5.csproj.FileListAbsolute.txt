@@ -1,0 +1,7 @@
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 5\Boletin 5\Boletin5Tema5\bin\Debug\Boletin5Tema5.exe.config
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 5\Boletin 5\Boletin5Tema5\bin\Debug\Boletin5Tema5.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 5\Boletin 5\Boletin5Tema5\bin\Debug\Boletin5Tema5.pdb
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 5\Boletin 5\Boletin5Tema5\obj\Debug\Boletin5Tema5.csproj.AssemblyReference.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 5\Boletin 5\Boletin5Tema5\obj\Debug\Boletin5Tema5.csproj.CoreCompileInputs.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 5\Boletin 5\Boletin5Tema5\obj\Debug\Boletin5Tema5.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 5\Boletin 5\Boletin5Tema5\obj\Debug\Boletin5Tema5.pdb

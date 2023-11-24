@@ -1,0 +1,7 @@
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\bucles\BulceWhile\obj\Debug\BulceWhile.csproj.AssemblyReference.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\bucles\BulceWhile\obj\Debug\BulceWhile.csproj.CoreCompileInputs.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\bucles\BulceWhile\bin\Debug\BulceWhile.exe.config
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\bucles\BulceWhile\bin\Debug\BulceWhile.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\bucles\BulceWhile\bin\Debug\BulceWhile.pdb
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\bucles\BulceWhile\obj\Debug\BulceWhile.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\bucles\BulceWhile\obj\Debug\BulceWhile.pdb

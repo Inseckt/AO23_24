@@ -1,0 +1,7 @@
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\bucles\02BucleFor\bin\Debug\02BucleFor.exe.config
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\bucles\02BucleFor\bin\Debug\02BucleFor.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\bucles\02BucleFor\bin\Debug\02BucleFor.pdb
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\bucles\02BucleFor\obj\Debug\02BucleFor.csproj.AssemblyReference.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\bucles\02BucleFor\obj\Debug\02BucleFor.csproj.CoreCompileInputs.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\bucles\02BucleFor\obj\Debug\02BucleFor.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\bucles\02BucleFor\obj\Debug\02BucleFor.pdb
