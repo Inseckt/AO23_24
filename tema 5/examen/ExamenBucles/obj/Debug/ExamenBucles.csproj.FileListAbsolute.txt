@@ -1,0 +1,7 @@
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 5\examen\ExamenBucles\bin\Debug\ExamenBucles.exe.config
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 5\examen\ExamenBucles\bin\Debug\ExamenBucles.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 5\examen\ExamenBucles\bin\Debug\ExamenBucles.pdb
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 5\examen\ExamenBucles\obj\Debug\ExamenBucles.csproj.AssemblyReference.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 5\examen\ExamenBucles\obj\Debug\ExamenBucles.csproj.CoreCompileInputs.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 5\examen\ExamenBucles\obj\Debug\ExamenBucles.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 5\examen\ExamenBucles\obj\Debug\ExamenBucles.pdb

@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Net.Mime;
+using System.Runtime.ConstrainedExecution;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -74,15 +76,20 @@ namespace Boletin5Tema5
                         for (int i = 1; i <= 10; i++)
                         {
                             int resultadoMultiplicacion = numero * i;
-                            Console.WriteLine($"{numero} x {i} = {resultadoMultiplicacion}");
+                            Console.WriteLine($"{numero} x {i} = {resultadoMultiplicacion}");// numero*i
                         }
                     }
                     else if (ejercicio == 8)
                     {
                         //Escribe un programa que muestre en tres columnas, el número, el cuadrado y el cubo de los 5 primeros números enteros a partir de uno que se introduce por teclado.
-                        Console.WriteLine("Escribe un numero");
+                        int numero, i;
+                        Console.WriteLine("Escribe un numero: ");
+                        numero = int.Parse(Console.ReadLine());
 
-
+                        for (i = numero; i < numero + 5; i++)
+                        {
+                            Console.WriteLine(i + " " + Math.Pow(i, 2) + " " + Math.Pow(i, 3));
+                        }
                     }
                     else if (ejercicio == 9)
                     {
@@ -262,6 +269,7 @@ namespace Boletin5Tema5
                     }
                     else if (ejercicio == 16)
                     {
+                        //Diseñar un programa que cuente cuántos números múltiplos de 3 hay por debajo de un número n dado por teclado por el usuario.
                         Console.Write("Ingrese un numero: ");
                         
                         int numero = int.Parse(Console.ReadLine());
@@ -280,6 +288,7 @@ namespace Boletin5Tema5
                     }
                     else if (ejercicio == 17)
                     {
+                        //Diseñar un programa que cuente los divisores de un número n introducido por teclado.
                         Console.Write("Ingrese un numero: ");
                         int numero = int.Parse(Console.ReadLine());
                         int contador = 0;
@@ -296,6 +305,11 @@ namespace Boletin5Tema5
                     }
                     else if (ejercicio == 18)
                     {
+                        //Diseñar un programa que lea un número positivo  y nos diga si ese número es primo o no. 
+                        //Utilizar para resolverlo un bucle for.  Nota: Un número es primo si solamente es divisible entre 1 y
+                        //sí mismo.Si el número introducido es negativo o cero el programa debe volver a pedir al usuario que
+                        //introduzca un número positivo.
+                        
                         int numero;
                         Boolean primo = true;
                         do
