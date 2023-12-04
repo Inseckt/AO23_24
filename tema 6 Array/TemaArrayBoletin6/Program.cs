@@ -35,7 +35,6 @@ namespace TemaArrayBoletin6
             Console.ReadLine();
 
             //ejercicio 8
-
                 int[] array1 = new int[100];            
                 Random generador = new Random();
 
@@ -58,11 +57,9 @@ namespace TemaArrayBoletin6
                 {
                     contadorN++;
                 }
-            }
-            
+            }            
             Funciones.printArray(array2);            
             Console.WriteLine("numeros negativos "+ contadorN);*/
-
             //18
             int contador18 = 0;
             String[] a18 = new String[10];
@@ -82,10 +79,21 @@ namespace TemaArrayBoletin6
             {
                 a16[i] = rnd2.Next(-100, 101);
             }
+            //12
+            int[] a12 = new int[50];
+            Console.WriteLine();
+            Funciones
+
+            long suma = 0;
+            for (int i = 0; i < a12.Length; i++) 
+            {
+                suma += a12[i];
+            }
+            Console.WriteLine("Suma: " + suma);
 
 
-
-                    Console.ReadLine();
+            
+            Console.ReadLine();
         }
     }
 }

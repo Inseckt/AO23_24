@@ -52,8 +52,39 @@ namespace TemaArrayBoletin6
                 Console.WriteLine(a[i]);
             }
 
-
-
+            //metodo que llena una array con numero aleatorio
         }
-    }
+        public static void llenarArray(int[] matriz)
+        {
+                Random generador = new Random();
+
+                for (int i = 0; i < matriz.Length; i++) 
+                {
+                    matriz[i] = generador.Next();
+                }                
+        }
+        public static void llenarArray(int[] matriz,int limInferior, int limSuperior)
+        {
+            Random generador = new Random();
+
+            for (int i = 0; i < matriz.Length; i++)
+            {
+                matriz[i] = generador.Next(limInferior,limSuperior+1);
+            }
+        }
+        public static void llenarArray(double[] matriz,int limInferior, int limSuperior)
+        {
+            Random generador = new Random();
+
+            for (int i = 0; i < matriz.Length; i++)
+            {
+                matriz[i] = generador.NextDouble();
+            }
+        }
+
+    }    ///
 }
+
+
+
+
