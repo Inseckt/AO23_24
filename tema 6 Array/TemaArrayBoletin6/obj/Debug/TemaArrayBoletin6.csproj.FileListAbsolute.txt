@@ -1,0 +1,7 @@
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 6 Array\TemaArrayBoletin6\obj\Debug\TemaArrayBoletin6.csproj.AssemblyReference.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 6 Array\TemaArrayBoletin6\obj\Debug\TemaArrayBoletin6.csproj.CoreCompileInputs.cache
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 6 Array\TemaArrayBoletin6\bin\Debug\TemaArrayBoletin6.exe.config
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 6 Array\TemaArrayBoletin6\bin\Debug\TemaArrayBoletin6.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 6 Array\TemaArrayBoletin6\bin\Debug\TemaArrayBoletin6.pdb
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 6 Array\TemaArrayBoletin6\obj\Debug\TemaArrayBoletin6.exe
+C:\Users\Xian Lago Fernandez\Documents\GitHub\AO23_24\tema 6 Array\TemaArrayBoletin6\obj\Debug\TemaArrayBoletin6.pdb
